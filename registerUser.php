@@ -1,0 +1,30 @@
+<html>
+	<head>
+		
+		<title>Tugas</title>
+	</head>
+	
+	<body>
+		<form id="reg" method="post" action="controller/Usersignup.php">
+			<div class="register">
+				<input type="hidden" name="id" />
+					<h2>REGISTER</h2>
+					<input type="text" name="user" id="user" placeholder="Username"/>
+					<br><br>
+					<input type="password" name="pass" id="pass" placeholder="Password" />
+					<br>
+					<input type="text" name="email" id="email" placeholder="Email" />
+					<br><br>
+
+					<input type="submit" value="sign-up" class="tombol">
+
+				</div>
+			</form>
+			
+		<div class="x-login">
+			<img src="images/delete-icon.png" />
+		</div>
+		
+		
+	</body>
+</html>

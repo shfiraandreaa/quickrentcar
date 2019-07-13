@@ -1,0 +1,20 @@
+td{
+	border-style: solid;
+}
+
+table{
+	border-collapse:collapse;
+}
+
+.btn-pinjam{
+	margin-top:40px;
+}
+
+.btn-pinjam button{
+	padding:15px;
+	border-radius: 10px;
+	border-color:#45969b;
+	background-color:#45969b;
+	color:white;
+	cursor: pointer;
+}

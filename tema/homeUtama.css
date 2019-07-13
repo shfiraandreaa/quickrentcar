@@ -1,0 +1,219 @@
+
+.head{
+	color:#142d4c;
+	margin:auto;
+	margin-top:20px;
+	width:40%;
+	height:60px;
+	text-align:center;
+	font-style:oblique;
+}
+.menuUtama{
+	width:100%;
+	height:60px;
+	background-color:#9fd3c7;
+	text-align:center;
+	font-size:24;
+	padding-top: 10px;
+}
+body{
+	background-color:#ececec;
+}
+.span-anchor{
+	float: left;
+	color: #ffffff;
+    margin-left: 10px;
+    font-size: 18;
+}
+.anchor{
+	list-style-type:none;
+}
+/*li{
+	margin-right:5%;
+	display:inline;
+	color:#ffffff;
+	cursor:pointer;
+	font-size:18;
+	font-weight: bold;
+	font-family: sans-serif;
+}*/
+.have-profil , .have-mobil , .have-paket , .have-kontak , .have-login{
+	color:white;
+	font-size:18;
+	font-display: inline;
+	margin-right: 5%;
+	cursor: pointer;
+}
+.konten{
+	width:100%;
+	height:500px;
+}
+.isiMU{
+	float:left;
+	text-align:left;
+	margin-top:62px;
+	padding-left:15px;
+	padding-top:109px;
+	height: 337px;
+	width: 40%;
+	display: none;
+}
+.hMU{
+	font-size:45;
+	color:#142d4c;
+}
+.pMU{
+	font-size:20;
+	color:#385170;
+}
+.gmbMU{
+	float: left;
+	height:500px;
+	width: 2px;
+	display:none;
+}
+.gmbMU img{
+	width: 844px;
+    height: 486px;
+}
+.isi-profil{
+	width: 100%;
+	height: 590px;
+
+	background-color:#ececec;
+	display: none;
+}
+.deskripsi{
+	margin: 0 auto;
+	padding-top: 200px;
+	width: 50%;
+	height: 245px;
+	text-align: justify;
+}
+.x{
+	float:right;
+	margin-right:-3px;
+	margin-top: 10px;
+	width:40px;
+	height:40px;
+	cursor: pointer;
+}
+.x img{
+	width:20px !important;
+	height:20px !important;
+}
+.ketMbl-kiri{
+	float: left;
+	width: 20%;
+	height: 330px;
+    margin-top: 100px;
+	padding-top: 5px;
+	padding-left: 15px;
+}
+.detail-mobil{
+	float: left;
+	width: 80%;
+	height: 550px;
+	padding-left: 20px;
+}
+#mobil-avanza{
+	display: none;
+	width: 90%;
+	padding-top: 20px;
+    margin-left: 100px;
+}
+#mobil-apv{
+	display: none;
+	width: 60%;
+    margin-left: 150px;
+    margin-top: -80px;
+}
+#mobil-fortuner{
+	display: none;
+	width: 60%;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+#mobil-innova{
+	display: none;
+	width: 65%;
+    margin-left: 130px;
+    margin-top: 35px;
+}
+#mobil-hiace{
+	display: none;
+	width: 50%;
+    margin-left: 180px;
+    margin-top: 30px;
+}
+.x-mobil{
+	float:right;
+	margin-top: 10px;
+	margin-right: 7px;
+	cursor: pointer;
+}
+.ketPkt{
+	color: #142d4c;
+	width:30%;
+	height: 100px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+.isi-daftarPkt{
+	margin-top: 50px;
+    height: 300px;
+	margin: auto;
+}
+.tblHead{
+	text-align: center;
+}
+.page-paket{
+	text-align: center;
+}
+th, tr{
+	border: solid;
+	text-align: center;
+}
+td{
+	border-right: solid;
+}
+.tblKos{
+	border-right: none;
+}
+.x-Paket{
+	float:right;
+	margin-top: 7px;
+	margin-right: 7px;
+	cursor: pointer;
+}
+.isi-kontak{
+	display: none;
+	margin: auto;
+	width:60%;
+	height: 424px;
+    padding-top: 90px;
+    padding-left: 100px;
+}
+.maps{
+	float: left;
+	width: 50%;
+	height: 500px;
+}
+.x-kontak{
+	float:right;
+	margin-right:-3px;
+	margin-top: 10px;
+	width:40px;
+	height:40px;
+	cursor: pointer;
+}
+.x-kontak img{
+	width:20px !important;
+	height:20px !important;
+}
+.x-login{
+	float:right;
+	margin-top: 10px;
+	margin-right: 7px;
+	cursor: pointer;
+}
