@@ -2,7 +2,7 @@
 sistem ini menggunakan html, css, php dan javascript
 
 ## preview
-![preview](images/preview.png)
+![preview landingPage](images/preview.png)
 
 ## Database
 silahkan eksport database ke dalam mysql dengan menggunakan file tugas_web(1).sql yang berada di dalam folder DB
