@@ -9,19 +9,22 @@ Ini merupakan Landingpage dimana para pengguna bisa melihat beberapa fitur menu 
 
 ## Langkah Penggunaan Register/Login dan Pemesanan
 Berikut ini _langkah-langkah_ anda untuk melakukan Register/Login dan Pemesanan
+
+
 **1.** Klik Menu Login pada Landingpage
-```
-maka akan muncul seperti gambar dibawah ![Preview Login](images/Login.png)
-```
+maka akan muncul seperti gambar dibawah 
+
+![Preview Login](images/Login.png)
+
 **2.** Lalu Pilih **SignUp**, dan akan muncul form seperti berikut dan isi sesuai formnya
-```
+
 ![preview SignUp](images/capture.png)
-```
+
 **3.** Lalu setelah SignUp, maka selanjutnya adalah melakukan _Login_ dengan _username_ dan _password_ yang sudah didaftarkan
+
 **4.** Lalu setelah Login, maka menu selanjutnya akan terbuka, seperti gambar dibawah
-```
+
 ![preview Menu](images/menu.png)
-```
 
 ## Database
 silahkan **Eksport Database** ke dalam mysql dengan menggunakan file **_tugas_web(1).sql_** yang berada di dalam folder DB
