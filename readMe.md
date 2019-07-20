@@ -1,14 +1,15 @@
-## stmik open source website
-sistem ini menggunakan html, css, php dan javascript
+## _Quickrentcar Open Source Website_
+**Sistem** ini menggunakan _html, css, php dan javascript_
 
 ## Preview
 ![preview landingPage](images/preview.png)
+```
+Ini merupakan Landingpage dimana para pengguna bisa melihat beberapa fitur menu yang ada didalam website tersebut
+```
 
 ## Database
-silahkan eksport database ke dalam mysql dengan menggunakan file tugas_web(1).sql yang berada di dalam folder DB
+silahkan **Eksport Database** ke dalam mysql dengan menggunakan file **_tugas_web(1).sql_** yang berada di dalam folder DB
 
 ## Contact
-intrested untuk menggembangkan hal serupa? Contact Me
-Shafira Andrea : firaandreaa06@gmail.com, Student of : Stmik Mardira Indonesia University
- 
- ========== ----------- ===========
+Intrested untuk menggembangkan hal serupa? _Contact Me_
+**Shafira Andrea : firaandreaa06@gmail.com, Student of : Stmik Mardira Indonesia University**
