@@ -50,6 +50,7 @@ background-color:#2b580c;
 ```
 
 **e.** Hasil setelah diubah background-color pada class daftar-menuAdmin
+
 ![Preview Tema](../images/hasil1.png)
 
 
@@ -71,6 +72,7 @@ background-color:#a0855b;
 ```
 
 **e.** Hasil setelah diubah background-color pada class daftar-menuAdmin
+
 ![Preview Tema](../images/hasil2.png)
 
 		
