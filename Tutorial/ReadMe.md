@@ -37,7 +37,7 @@ Langkah _pertama_ untuk melakukan perubahan warna yaitu:
 **a.** Buka folder AppRental
 
 **b.** Buka file index.php, lalu lihat mengarah ke tema apa file tersebut, seperti gambar berikut:
-! [Preview Tema](../images/tema1.png)
+![Preview Tema](../images/tema1.png)
 		
 **c.** Karena disitu tertulis **href="tema/homeUtama.css"**, maka selanjutnya kita buka folder tema dan buka file homeUtama.css
 
@@ -54,7 +54,7 @@ color:#kodewarnayangkalianinginkan;
 **a.** Buka folder AppRental
 
 **b.** Buka file home.php, lalu lihat mengarah ke tema apa file tersebut, seperti gambar berikut:
-! [Preview Tema](../images/home2.png)
+![Preview Tema](../images/home2.png)
 		
 **c.** Karena disitu tertulis **href="tema/homeUtama.css"**, maka selanjutnya kita buka folder tema dan buka file home.css
 
