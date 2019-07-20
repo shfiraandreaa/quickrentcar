@@ -33,30 +33,38 @@ Langkah _pertama_ untuk melakukan perubahan warna yaitu:
 **1.** Pastikan anda sudah melakukan clone sehingga anda memiliki folder dan file-filenya.
 
 **2.** Jika kalian ingin merubah color theme di **Landingpage** maka yang harus kalian lakukan pertama adalah :
-		**a.** Buka folder AppRental
-		**b.** Buka file index.php, lalu lihat mengarah ke tema apa file tersebut, seperti gambar berikut:
-		! [Preview Tema](../images/tema1.png)
+
+**a.** Buka folder AppRental
+
+**b.** Buka file index.php, lalu lihat mengarah ke tema apa file tersebut, seperti gambar berikut:
+! [Preview Tema](../images/tema1.png)
 		
-		**c.** Karena disitu tertulis **href="tema/homeUtama.css"**, maka selanjutnya kita buka folder tema dan buka file homeUtama.css
-		**d.** Lalu kalian bisa melakukan perubahan warna seperti contoh, kita akan _melakukan perubahan warna pada class head_
-		```
-		.head{
-			color:#kodewarnayangkalianinginkan;
-		}
-		```
+**c.** Karena disitu tertulis **href="tema/homeUtama.css"**, maka selanjutnya kita buka folder tema dan buka file homeUtama.css
+
+**d.** Lalu kalian bisa melakukan perubahan warna seperti contoh, kita akan _melakukan perubahan warna pada class head_
+
+```
+.head{
+color:#kodewarnayangkalianinginkan;
+}
+```
 
 **3.** Jika kalian ingin merubah color theme di **Home** maka yang harus kalian lakukan pertama adalah :
-		**a.** Buka folder AppRental
-		**b.** Buka file home.php, lalu lihat mengarah ke tema apa file tersebut, seperti gambar berikut:
-		! [Preview Tema](../images/home2.png)
+
+**a.** Buka folder AppRental
+
+**b.** Buka file home.php, lalu lihat mengarah ke tema apa file tersebut, seperti gambar berikut:
+! [Preview Tema](../images/home2.png)
 		
-		**c.** Karena disitu tertulis **href="tema/homeUtama.css"**, maka selanjutnya kita buka folder tema dan buka file home.css
-		**d.** Lalu kalian bisa melakukan perubahan warna seperti contoh, kita akan _melakukan perubahan warna pada class daftar-menu_
-		```
-		.daftar-menu{
-			background-color:#kodewarnayangkalianinginkan;
-		}
-		```
+**c.** Karena disitu tertulis **href="tema/homeUtama.css"**, maka selanjutnya kita buka folder tema dan buka file home.css
+
+**d.** Lalu kalian bisa melakukan perubahan warna seperti contoh, kita akan _melakukan perubahan warna pada class daftar-menu
+
+```
+.daftar-menu{
+background-color:#kodewarnayangkalianinginkan;
+}
+```
 		
 		
 		
