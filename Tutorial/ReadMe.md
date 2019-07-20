@@ -81,7 +81,8 @@ Berikut cara untuk merubah Logo:
 **1.** Buka file index.php
 
 **2.** Lihat link yg mengarah dia ke images apa
-![preview Logo](../images/logo1.png)
+
+![preview Logo](../images/logosebelum.png)
 
 **3.** Lalu jika ingin mengubah maka kita bisa langsung menaruh gambar yang baru dengan syarat **file harus .ico**
 
