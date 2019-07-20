@@ -15,14 +15,14 @@ maka akan muncul seperti gambar dibawah
 
 **2.** Lalu Login dengan menggunakan _username_ : **Admin** dan _password_ : **admin123**
 
-![Preview Login Admin](loginAdmin.png)
+![Preview Login Admin](images/loginAdmin.png)
 
 **3.** Maka setelah Login akan muncul _Menu Utama_ sebagai Admin, seperti berikut ini:
 
-![Preview Menu Admin](menuAdmin.png)
+![Preview Menu Admin](images/menuAdmin.png)
 
 **4.** Lalu pilih menu _Tambah Mobil_
 
-![Preview Menu Tambah Mobil](tambahMobil.png)
+![Preview Menu Tambah Mobil](images/tambahMobil.png)
 
 **5.** Lalu isi form sesuai data mobil yang akan ditambahkan
