@@ -49,7 +49,7 @@ background-color:#2b580c;
 }
 ```
 
-**e.** Hasil setelah diubah background-color pada class daftar-menuAdmin
+**e.** Hasil setelah diubah background-color pada class menuUtama
 
 ![Preview Tema](../images/perubahan1.png)
 
@@ -75,5 +75,23 @@ background-color:#a0855b;
 
 ![Preview Tema](../images/perubahan2.png)
 
-		
+## Tutorial Mengubah Logo Web (favicon)
+Berikut cara untuk merubah Logo:
+
+**1.** Buka file index.php
+
+**2.** Lihat link yg mengarah dia ke images apa
+![preview Logo](../images/logo1.png)
+
+**3.** Lalu jika ingin mengubah maka kita bisa langsung menaruh gambar yang baru dengan syarat **file harus .ico**
+
+```
+<link rel="shortcut icon" href="images/logo.ico" />	
+```
+
+**4.** Dan berikut hasil perubahannya
+
+![Preview Tema](../images/sebelumubah.png)
+
+![Preview Tema](../images/sesudah.png)
 		
